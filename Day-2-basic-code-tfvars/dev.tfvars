@@ -1,4 +1,4 @@
-ami_id = "ami-085ad6ae776d8f09c"
+ami_id = "ami-0f2ce9ce760bd7133"
 type ="t2.micro"
 key = "ec2test"
 
