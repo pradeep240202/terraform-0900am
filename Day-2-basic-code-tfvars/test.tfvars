@@ -1,3 +1,3 @@
-ami_id = "ami-085ad6ae776d8f09c"
+ami_id = "ami-02a53b0d62d37a757"
 type ="t2.nano"
 key = "ec2test"
